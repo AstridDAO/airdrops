@@ -60,8 +60,8 @@ Run `yarn` in event's root directory (specified below per event)
 
         3. The third section will generate the airdrop recipient list. This list wil be used to set the recipients in the deployed airdrop instance. The generated input for the airdrop instance will be located in `configs/deposit_incentives_april-july/recipientList.json`
 
-### Staking incentives event - First 4 months
-1. Navigate to root directory (`airdrops/staking_incentives_apirl-august_22/`)
+### Staking incentives event - 4/27-8/27
+1. Navigate to root directory (`airdrops/staking_incentives_april27-august27_2022/`)
 
 2. Query chain data
   
