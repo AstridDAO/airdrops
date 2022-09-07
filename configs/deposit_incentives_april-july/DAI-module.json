@@ -1,0 +1,7188 @@
+{
+  "queriedState": [
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1123700,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x06784e70bec30c21fc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1123788,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3cd9b930231bc97114"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1123700,
+      "userAddress": "0x9f3caE8403F0Bc232d6a0d7abDd8BDa3E121fA43",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x06784e70bec30c21fc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1123788,
+      "userAddress": "0x0bBEF7F357aFB00675f93B6785a35897Ef9C8ef3",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x36616abf6458bd4f18"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124550,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x4b7b3500b99a084bbf"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124596,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x563872df4222b86495"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124649,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5d0d0ccbae85f06495"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124682,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8294b245de52d93ea3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124691,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa2ba844796ba4532de"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124694,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa2ba844796ba4532de"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124733,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa2ba844796ba4532de"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124747,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xbc8ecce2f23475d566"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124832,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xbc8ecce2f23475d566"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124889,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xd5af0d49dbca3578d6"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1124952,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x011cbfbb4ad4524c91ee"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124550,
+      "userAddress": "0x9b6Cd428E56ce00792ad94C6A955215A606414a6",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0ea17bd0967e3edaab"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124596,
+      "userAddress": "0x9b6Cd428E56ce00792ad94C6A955215A606414a6",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x195eb9af1f06eef381"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124649,
+      "userAddress": "0x01fdf8540DBB172956ACddb5E8F6dBce3DBc96ac",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x06d499ec6c63380000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124682,
+      "userAddress": "0x69B40c6Cb7f4f625cF764640d9CCF479a0696a95",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x2587a57a2fcce8da0e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124691,
+      "userAddress": "0x69B40c6Cb7f4f625cF764640d9CCF479a0696a95",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x45ad777be83454ce49"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124694,
+      "userAddress": "0x69B40c6Cb7f4f625cF764640d9CCF479a0696a95",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x45ad777be83454ce49"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124733,
+      "userAddress": "0x9b6Cd428E56ce00792ad94C6A955215A606414a6",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x195eb9af1f06eef381"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124747,
+      "userAddress": "0x01fdf8540DBB172956ACddb5E8F6dBce3DBc96ac",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x20a8e287c7dd68a288"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124832,
+      "userAddress": "0x69B40c6Cb7f4f625cF764640d9CCF479a0696a95",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x45ad777be83454ce49"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124889,
+      "userAddress": "0x0aD9849989CF1d813Fe0E13A2BfEA92DA9a9F138",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x19204066e995bfa370"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1124952,
+      "userAddress": "0xe0103345506992C4bD3505B3f254a62D80b5D8e3",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x4710ae00f888171918"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1125082,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0131fc3f23633ecff04c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1125260,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x01479ecb199d36f50329"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1125490,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0187197747307b2f012c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1125503,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x01bdda0817fae3b7012c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1125582,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x01bdda0817fae3b7012c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1125634,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x032d24a97b2c64ecc411"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1125682,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x039a9dcdc8969fba1b43"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1125730,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x03abbdcc08e0e1a01b43"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1125734,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x04baf45e91d930ec1b43"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1125928,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x051150cbf33ba80b7070"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1125082,
+      "userAddress": "0x747c1D10cCaF606b56aB58eec8b899eE098f65AF",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x153c83d88eec835e5e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1125260,
+      "userAddress": "0xD736F9601C7669207D0Fc28643aa701762bEbe7C",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x15a28bf639f82512dd"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1125490,
+      "userAddress": "0x8916cbe0A294D0aB449303277D97B70a3625319e",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3f7aac2d934439fe03"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1125503,
+      "userAddress": "0xeb258Ee4d01Bc2D519FBc43ff1681D0c85e36B42",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x36c090d0ca68880000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1125582,
+      "userAddress": "0xeb258Ee4d01Bc2D519FBc43ff1681D0c85e36B42",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x36c090d0ca68880000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1125634,
+      "userAddress": "0x926D368FD6211Fdd626Ed3B4C4E227a6C93a7f4E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x016f4aa163318135c2e5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1125682,
+      "userAddress": "0xA65Fb1B12Ce98D6C94Cce0bfb2D571639664d2c1",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x6d79244d6a3acd5732"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1125730,
+      "userAddress": "0x86C84A09f87E1Ea6C36919c4083cf67A5E90e5Ff",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x111ffe404a41e60000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1125734,
+      "userAddress": "0xd08F177f6Fe96B5D863A5e45027eaFB041bc4B55",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x010f369288f84f4c0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1125928,
+      "userAddress": "0xcE852A7b036a3c116Ee7f2A5560A96B5fD88e4Eb",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x565c6d6162771f552d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126026,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0a5c917deb8e65ab7070"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126144,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0b05f9942a98bd5f7070"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126272,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0b3be04f5be1a645baa5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126279,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0ced8e9cca109b45baa5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126302,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0d4f1fb02fd9289b40a3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126313,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0da0705eb481f68b40a3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126319,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0dfc9582683ff14ae36e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126333,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0e5e25eadcedc1b8e1e9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126354,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0eb26b76ecb4ef2d0e3b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126371,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0eba8d7f5f2cbabcbe66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126372,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0f3f36ab46245e55d25f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126387,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0f3f36ab46245e55d25f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126406,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0faba23ea1b01b95d25f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126444,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x10c569db7f8c0d665954"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126453,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x11c83ed9aeceb796128e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126463,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x11e1b0c8bebbf0cc128e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126518,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x11f1ca7cb52923d0128e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126582,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x13384a9957a0b8bf128e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126613,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x13537866ffc56e3c369f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126625,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x13537866ffc56e3c369f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126650,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x1389ae30ad8b4cdc369f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126700,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x15f918bffbeecd0c369f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126859,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x162149ce5d740cd173fc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1126906,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x1c6a5f83ae5bacb7b3fc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126026,
+      "userAddress": "0x4E928b122bF8b38846A54515E950356A224b2405",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x054b40b1f852bda00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126144,
+      "userAddress": "0x9215F394a637A4ED09B7357e8713fb15fB5D5A65",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xa968163f0a57b40000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126272,
+      "userAddress": "0xbbb7b32A5e384829FA67E200041d64e4Dd8A6105",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x35e6bb3148e8e64a35"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126279,
+      "userAddress": "0x589690814bEf0335eBd2DEf3fea45efB56287A67",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01b1ae4d6e2ef5000000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126302,
+      "userAddress": "0xbbb7b32A5e384829FA67E200041d64e4Dd8A6105",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x9777ce9711763bd033"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126313,
+      "userAddress": "0xd51D49A1a67AB4ED75825D1F8a99b1c794e4A164",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x5150ae84a8cdf00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126319,
+      "userAddress": "0xbbb7b32A5e384829FA67E200041d64e4Dd8A6105",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xf39cf24acf70fb72fe"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126333,
+      "userAddress": "0xbbb7b32A5e384829FA67E200041d64e4Dd8A6105",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01552d5abf7d41697179"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126354,
+      "userAddress": "0xbbb7b32A5e384829FA67E200041d64e4Dd8A6105",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01a972e6cf446edd9dcb"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126371,
+      "userAddress": "0x956d4b572EdB5AB27305A89651B391723B51D1bE",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0822087277cb8fb02b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126372,
+      "userAddress": "0xbbb7b32A5e384829FA67E200041d64e4Dd8A6105",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x022e1c12b63c1276b1c4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126387,
+      "userAddress": "0xbbb7b32A5e384829FA67E200041d64e4Dd8A6105",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x022e1c12b63c1276b1c4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126406,
+      "userAddress": "0xab4382aAdae5bF4b37B90b9dc07FC72D52e2a28A",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x6c6b935b8bbd400000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126444,
+      "userAddress": "0xbbb7b32A5e384829FA67E200041d64e4Dd8A6105",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0347e3af9418044738b9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126453,
+      "userAddress": "0xbbb7b32A5e384829FA67E200041d64e4Dd8A6105",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x044ab8adc35aae76f1f3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126463,
+      "userAddress": "0x66ceA43C129f88623CCbA945b1Eb53bA2D04BC8c",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1971ef0fed39360000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126518,
+      "userAddress": "0x9e1C950E743ec4f6AfeC299dcDff1bbC21bb2b3B",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1019b3f66d33040000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126582,
+      "userAddress": "0x87b8c235d3Fd6F4934D6D9E451CE6A21D8218Fa7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0146801ca27794ef0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126613,
+      "userAddress": "0xBB458aa7974fA12d4aC2b53be7c453c4cB5207CC",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1b2dcda824b57d2411"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126625,
+      "userAddress": "0x87b8c235d3Fd6F4934D6D9E451CE6A21D8218Fa7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0146801ca27794ef0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126650,
+      "userAddress": "0xCD2F1b474C2E8569699Eb3c2C11b29F3Ff029891",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3635c9adc5dea00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126700,
+      "userAddress": "0xfC414DAf238a3cBea641F9eeD8959cA6aDAeE3fD",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x026f6a8f4e6380300000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126859,
+      "userAddress": "0x96Fb567ef48bFFDD95167821aC442bB95eD72006",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x28310e61853fc53d5d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1126906,
+      "userAddress": "0x1A66536999b66f6aE13508fC198a06615A11CD77",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x064915b550e79fe64000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127130,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x1c924add0a42dba7d822"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127144,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x23fb23f86cd690a1a637"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127146,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2420e7ad78bb65e85dc4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127156,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2444df046b3b00cb3974"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127165,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2466b040ba41e23982bc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127181,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2466b040ba41e23982bc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127214,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x289972981ba8ccfbe24a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127223,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2ee6f2538a649df0da6c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127248,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2f0727e2388780bde8f8"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127255,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2f0727e2388780bde8f8"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127256,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2f275eea2befe45fe6b1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127266,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2f867dff3b0ab8b4e6b1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127268,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2fa401bc3c99d4e04abc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127285,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2fc18830107e092d4576"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127298,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2fdc5bac8a72dde5ed66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127322,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2ff731f464b9c3f96a04"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127354,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x301207b438014c4c7c65"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127362,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3027785fced26d1e1f04"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127374,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x303fa1bfcb863d15c831"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127384,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x305262b90ba2f80f9a68"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127403,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3067dc8616d8d9aa6fbe"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127406,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3077fe3d9b405d0b707a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127416,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x308ac20dffb64abd152a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127425,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x308ac20dffb64abd152a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127429,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x309d890a734ad3bde51f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127444,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x308d6603baab3d13d186"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127446,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x309ac88841ec7ffebfa1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127513,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x308ffeda3c456142bfa1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1127549,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2fed5d7d32f3c562bfa1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127130,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x27eb595be72ef02426"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127144,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0768d91b6293b4f9ce15"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127146,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x4daf0e67cc0436dbb3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127156,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x71a6655a4b9f19b763"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127165,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x9377a1a952808800ab"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127181,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0768d91b6293b4f9ce15"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127214,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0b9b9b72c3fa9fbc2da3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127223,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x11e91b2e32b670b125c5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127248,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xb3ad30577563550f37"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127255,
+      "userAddress": "0xD736F9601C7669207D0Fc28643aa701762bEbe7C",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x15a28bf639f82512dd"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127256,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xd3e4384addc6f70cf0"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127266,
+      "userAddress": "0x58AC4629b92cC2da80C7ff804f9bABf149D51B92",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x5f1f150f1ad4550000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127268,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xf167f54c6ce32270fb"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127285,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x010eee692051176f6bb5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127298,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0129c1e59a45ec2813a5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127322,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0144982d748cd23b9043"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127354,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x015f6ded47d45a8ea2a4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127362,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0174de98dea57b604543"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127374,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x018d07f8db594b57ee70"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127384,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x019fc8f21b760651c0a7"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127403,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01b542bf26abe7ec95fd"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127406,
+      "userAddress": "0xD736F9601C7669207D0Fc28643aa701762bEbe7C",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x25c4437aa17b861399"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127416,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01c8068f8b21d59e3aad"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127425,
+      "userAddress": "0xD736F9601C7669207D0Fc28643aa701762bEbe7C",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x25c4437aa17b861399"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127429,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01dacd8bfeb65e9f0aa2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127444,
+      "userAddress": "0xD736F9601C7669207D0Fc28643aa701762bEbe7C",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x15a13cc201e4dc0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127446,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01e8301085f7a189f8bd"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127513,
+      "userAddress": "0xD736F9601C7669207D0Fc28643aa701762bEbe7C",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0ad78ebc5ac6200000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1127549,
+      "userAddress": "0x589690814bEf0335eBd2DEf3fea45efB56287A67",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x010f0cf064dd59200000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128034,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x305929f70c6fd75b8c97"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128063,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x30bd5ae49a348d13ffa1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128093,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x311bae3e674a48c3ffa1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128222,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x31362a78c4c2352bbb35"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128228,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x31fa810b2ba3caefbb35"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128241,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3230b53ed3a417d1dc66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128245,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x32e8ab84b21b7fe7dc66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128264,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3394ec3068fdab9ddc66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128313,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x33cf93f49c4f2845dc66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128356,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x340716cf6aecb845dc66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128443,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x340c2f5280e42efddc66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128802,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x340c2f5280e42efddc66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1128979,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x340c2f5280e42efddc66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128034,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x6bcc79d97c11f8ccf6"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128063,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xcffd676740c7b14000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128093,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x012e50c1345683614000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128222,
+      "userAddress": "0x9D0AE4cBde9deD6D205445B159659EF03aF7A52a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1a7c3a5d77ec67bb94"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128228,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01f2a7539b3819254000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128241,
+      "userAddress": "0x9B99d8ba490933a978791EFcEAeFF74517387860",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x363433a8004ce22131"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128245,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x02aa9d9979af813b4000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128264,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0356de453091acf14000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128313,
+      "userAddress": "0xA2FB49BF71E0FbB4c7Afc9d784eE2dDF18727997",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3aa7c433517ca80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128356,
+      "userAddress": "0xA2FB49BF71E0FbB4c7Afc9d784eE2dDF18727997",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x722a9f01ef0ca80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128443,
+      "userAddress": "0xA2FB49BF71E0FbB4c7Afc9d784eE2dDF18727997",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x77432217e683600000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128802,
+      "userAddress": "0x9e1C950E743ec4f6AfeC299dcDff1bbC21bb2b3B",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1019b3f66d33040000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1128979,
+      "userAddress": "0xab4382aAdae5bF4b37B90b9dc07FC72D52e2a28A",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x6c6b935b8bbd400000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1131372,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x342e72158c696ddddc66"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1131610,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3415135bdd4a66eee8e5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1131677,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3415135bdd4a66eee8e5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1131721,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x375b10f4922308b47f2c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1131372,
+      "userAddress": "0x66BBcdD4341D23c3E0438dfFE2e3cBa462AeD3f2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x2242c30b853ee00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1131610,
+      "userAddress": "0x9b6Cd428E56ce00792ad94C6A955215A606414a6",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1131677,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x11e91b2e32b670b125c5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1131721,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x152f18c6e78f1276bc0c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1134258,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x37732195037b076e0ccc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1134340,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x398cb5db1c623c983edc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1134684,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x398cb5db1c623c983edc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1134258,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1810a07157feb98da0"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1134340,
+      "userAddress": "0x222BeE4b15f0B4a00e55d901B8413DD35257dE22",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0219944618e7352a3210"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1134684,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0356de453091acf14000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1135139,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x398cb5db1c623c983edc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1135146,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x39c2eba4ca281b383edc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1135627,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x39a0a8e1bea2dc583edc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1135139,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0356de453091acf14000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1135146,
+      "userAddress": "0x81fb0C63E192C46041c6032DE25006c15481A6ec",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3635c9adc5dea00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1135627,
+      "userAddress": "0x66BBcdD4341D23c3E0438dfFE2e3cBa462AeD3f2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1136812,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x39e59f2fac452242fedc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1136812,
+      "userAddress": "0x396a6D7a33655c45044143CB8A812227bf279578",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x44f64deda245eac000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1137737,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x39fd74f02deb81f3102b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1137809,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3a12eebf070a88fc2e1b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1137837,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3a2868bd0d2ba40e569a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1137856,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3a39fa229678e0c9713c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1137737,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x2fe660f2fe5e699eef"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1137809,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x45602fcc1d6572bcdf"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1137837,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x5ada2dd23e8084e55e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1137856,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x6c6b935b8bbd400000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1138835,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3a70310fab6557805f08"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1138879,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3d7cd134a4ed10805f08"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1138835,
+      "userAddress": "0x7D212cE199459eB212FFbD1F45fD7b332B76d953",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3636ed14ec76b6edcc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1138879,
+      "userAddress": "0xD6d8957449F2A98Cc2A995a9899cc3360bA1764c",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x030ca024f987b9000000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1139218,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3d7cd134a4ed10805f08"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1139273,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3d7cd134a4ed10805f08"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1139942,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3d87a8c36147d6a05f08"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1139218,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0356de453091acf14000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1139273,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0356de453091acf14000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1139942,
+      "userAddress": "0xc2A3e87D5fFEC3cc3AaB4e75D7BE8B095572Ac83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0ad78ebc5ac6200000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1140259,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3dbdde8d0f0db5405f08"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1140419,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x3db306fe52b2ef205f08"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1140702,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x4725528a7d52d71ef155"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1140742,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x4e7482eff2c95f258c51"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1140788,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5669268047752041d8a9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1140259,
+      "userAddress": "0x396a6D7a33655c45044143CB8A812227bf279578",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x7b2c179b68248ac000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1140419,
+      "userAddress": "0xc2A3e87D5fFEC3cc3AaB4e75D7BE8B095572Ac83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1140702,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1ea16453122efa754e59"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1140742,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x25f094b887a5827be955"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1140788,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x2de53848dc51439835ad"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1141321,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5678df0f3ef8bf89d8a9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1141422,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5678df0f3ef8bf89d8a9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1141473,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5678df0f3ef8bf89d8a9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1141806,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5678df0f3ef8bf89d8a9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1141963,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x56ece5de4988efbb9cfa"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1141321,
+      "userAddress": "0x0C9075a7e09AAe69b9E20839cb082aF2DD6101D5",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0fb88ef7839f480000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1141422,
+      "userAddress": "0x01fdf8540DBB172956ACddb5E8F6dBce3DBc96ac",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x20a8e287c7dd68a288"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1141473,
+      "userAddress": "0x0C9075a7e09AAe69b9E20839cb082aF2DD6101D5",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0fb88ef7839f480000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1141806,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0356de453091acf14000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1141963,
+      "userAddress": "0x7a26ccf076F95AA667eFc853cbD9d9A31E035d3d",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x7406cf0a903031c451"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1142136,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x56b684738a2496fe4de2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1142559,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x59de3f7d5a8f3f4e4de2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1142136,
+      "userAddress": "0x0bBEF7F357aFB00675f93B6785a35897Ef9C8ef3",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1142559,
+      "userAddress": "0x1a77681d61147668901506280cd3F5dA2E199776",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0327bb09d06aa8500000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1143143,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x59e3afcf674780b8fdb9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1143143,
+      "userAddress": "0xBB458aa7974fA12d4aC2b53be7c453c4cB5207CC",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x209e1fb4dcf6e7d3e8"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1144590,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x59e3afcf674780b8fdb9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1144590,
+      "userAddress": "0x69B40c6Cb7f4f625cF764640d9CCF479a0696a95",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x45ad777be83454ce49"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1145793,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5a143ac981ad46a53902"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1145793,
+      "userAddress": "0x5A32249F3f076571362E7D00AF3e8Ee8757271e2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x308afa1a65c5ec3b49"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1146048,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5ab23f394c21fe3b3c02"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1146065,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5b170a105a9b0b08bb94"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1146098,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5b8057a4c2809213856b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1146108,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5c09519eaf8bcc49ccda"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1146117,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5c09519eaf8bcc49ccda"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1146330,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x59e3afcf674780b8fdb9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1146384,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x59ea31250b7df798fdb9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1146048,
+      "userAddress": "0x5A32249F3f076571362E7D00AF3e8Ee8757271e2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xce8f69e4da7d823e49"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1146065,
+      "userAddress": "0x5A32249F3f076571362E7D00AF3e8Ee8757271e2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01335a40f3538a4fbddb"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1146098,
+      "userAddress": "0x5A32249F3f076571362E7D00AF3e8Ee8757271e2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x019ca7d55b39115a87b2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1146108,
+      "userAddress": "0x5A32249F3f076571362E7D00AF3e8Ee8757271e2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0225a1cf48444b90cf21"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1146117,
+      "userAddress": "0x5A32249F3f076571362E7D00AF3e8Ee8757271e2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0225a1cf48444b90cf21"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1146330,
+      "userAddress": "0x5A32249F3f076571362E7D00AF3e8Ee8757271e2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1146384,
+      "userAddress": "0xce4bc76159B182BF4dF8D464291Cee1dD7A8e823",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x068155a43676e00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1147535,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x59ea0782e763016cfdb9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1147560,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x59ea31250b7df798fdb9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1147570,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x59ea31250b7df798fdb9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1147535,
+      "userAddress": "0xce4bc76159B182BF4dF8D464291Cee1dD7A8e823",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0657b3801b80b40000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1147560,
+      "userAddress": "0xce4bc76159B182BF4dF8D464291Cee1dD7A8e823",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x068155a43676e00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1147570,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x6c6b935b8bbd400000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1148651,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x55e4332d25ce71b8fdb9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1148651,
+      "userAddress": "0x4E928b122bF8b38846A54515E950356A224b2405",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x014542ba12a337c00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1149433,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x55e4332d25ce71b8fdb9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1149437,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x55e4332d25ce71b8fdb9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1149489,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5686db90f979a9634460"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1149558,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa4f362a4c35951c8e2da"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1149433,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0356de453091acf14000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1149437,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0356de453091acf14000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1149489,
+      "userAddress": "0x7D212cE199459eB212FFbD1F45fD7b332B76d953",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xd8df50e897ae613473"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1149558,
+      "userAddress": "0xDe6b2a06407575B98724818445178C1f5fD53361",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x4e6c8713c9dfa8659e7a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1154262,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa4f362a4c35951c8e2da"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1154262,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01e8301085f7a189f8bd"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1155432,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa531c9120abc154436c9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1155435,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa531c9120abc154436c9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1155442,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa51bf7be3f4efdfb9441"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1155462,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa511202f82f437db9441"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1155432,
+      "userAddress": "0x5BEF09B0A1334d381cD95613F2bE9fdD69A49f76",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3e666d4762c37b53ef"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1155435,
+      "userAddress": "0x01fdf8540DBB172956ACddb5E8F6dBce3DBc96ac",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x20a8e287c7dd68a288"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1155442,
+      "userAddress": "0x01fdf8540DBB172956ACddb5E8F6dBce3DBc96ac",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0ad78ebc5ac6200000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1155462,
+      "userAddress": "0x01fdf8540DBB172956ACddb5E8F6dBce3DBc96ac",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1158839,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5c939272a2cc26b9441"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1158839,
+      "userAddress": "0x7e623eCe722d2DED13694ee3A8C8c0E8E7E1dd23",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xb818f7a7388a900000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1160165,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5c939272a2cc26b9441"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1160165,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x6c6b935b8bbd400000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1162188,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6a1a894feaa48c331f9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1162188,
+      "userAddress": "0xEbb2BC8fE139A025eef021f19641A60FcEce3Dc2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xd86f6dd47d86579db8"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1163112,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6c22f4133ba9b2331f9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1163118,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6c22f4133ba9b2331f9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1163112,
+      "userAddress": "0x396a6D7a33655c45044143CB8A812227bf279578",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x9bb2c3d07876eac000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1163118,
+      "userAddress": "0x396a6D7a33655c45044143CB8A812227bf279578",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x9bb2c3d07876eac000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1165018,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6bcc379d58d381331f9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1165018,
+      "userAddress": "0x7e623eCe722d2DED13694ee3A8C8c0E8E7E1dd23",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xb2ad30490b27800000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1168332,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa694926b7407f84df49c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1168332,
+      "userAddress": "0x96Fb567ef48bFFDD95167821aC442bB95eD72006",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1169401,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa69b2a1a6282f977f49c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1169401,
+      "userAddress": "0x275AB472E0C843E82665995B6630e5A32E5dF4c1",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0697aeee7b012a0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1174459,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6d15fe41048d817f49c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1175006,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6a0f5ea422416689f6f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1174459,
+      "userAddress": "0x97A97df6Bf0818D71bad7550bc9ae8d995842B03",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3635c9adc5dea00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1175006,
+      "userAddress": "0xcE852A7b036a3c116Ee7f2A5560A96B5fD88e4Eb",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x25f273933db5700000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1175311,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6ab42b1db7a52a09f6f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1175311,
+      "userAddress": "0xc64DE5E0f97c21606e1f31426eB5c98AB729C08e",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0a4cc799563c380000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1178593,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6ad4dd8f2ac93babc48"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1178811,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6ad4dd8f2ac93babc48"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1178814,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa59e174669b4446ebc48"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1178593,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x2de7436ff38384b25286"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1178811,
+      "userAddress": "0xd08F177f6Fe96B5D863A5e45027eaFB041bc4B55",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x010f369288f84f4c0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1178814,
+      "userAddress": "0xd08F177f6Fe96B5D863A5e45027eaFB041bc4B55",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1186401,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa59e174669b4446ebc48"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1186401,
+      "userAddress": "0xc64DE5E0f97c21606e1f31426eB5c98AB729C08e",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0a4cc799563c380000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1187146,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa59e174669b4446ebc48"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1187153,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa57b657da891ca6ebc48"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1187146,
+      "userAddress": "0x396a6D7a33655c45044143CB8A812227bf279578",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x9bb2c3d07876eac000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1187153,
+      "userAddress": "0x396a6D7a33655c45044143CB8A812227bf279578",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x7900fb0f55fceac000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1188997,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa580c1f10c17dc3e6f41"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1188997,
+      "userAddress": "0x5BEF09B0A1334d381cD95613F2bE9fdD69A49f76",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x43c2e0aae8d54b06e8"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1189788,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa507c0f5fcc1df53af41"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1189788,
+      "userAddress": "0x396a6D7a33655c45044143CB8A812227bf279578",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1193307,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa577b297bbeb1cf7af41"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1193335,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa592db9d77efecde4088"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1193994,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa588040ebb9526be4088"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1193307,
+      "userAddress": "0x3C3E1450CD9Ea5cF4a19a963F463951cbED1c4a0",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x6ff1a1bf293da40000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1193335,
+      "userAddress": "0x3C3E1450CD9Ea5cF4a19a963F463951cbED1c4a0",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x8b1aa77b2e0d8a9147"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1193994,
+      "userAddress": "0xD736F9601C7669207D0Fc28643aa701762bEbe7C",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1194929,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5b2c077611508fa6d11"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1194929,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x9727fc010b9f7c2c89"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1195436,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5d954bd403df4ae4088"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1195436,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xbdbc41e0348b300000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1197581,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5e26eb45d74183b5c7e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1197581,
+      "userAddress": "0x1BFcB6b1eE66fe339a9DC452359c4c111cC5fFC0",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0919f71d36238d1bf6"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1199898,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5ed3862631b36f75c7e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1199898,
+      "userAddress": "0x36BfaDE850320D0Ca9E18031ea8d5Dfe0971C12f",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0ac9ae05a71ebc0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1202401,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5e6c013f25c73eb3a82"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1202668,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5e806f46cbf7e85ece2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1202671,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5e806f46cbf7e85ece2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1202401,
+      "userAddress": "0x9f3caE8403F0Bc232d6a0d7abDd8BDa3E121fA43",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1202668,
+      "userAddress": "0x5BEF09B0A1334d381cD95613F2bE9fdD69A49f76",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x4509c1254bdfe5b948"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1202671,
+      "userAddress": "0xEbb2BC8fE139A025eef021f19641A60FcEce3Dc2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xd86f6dd47d86579db8"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1206447,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa67c17b45fb9132353e2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1206447,
+      "userAddress": "0xb4cE0c954bB129D8039230F701bb6503dca1Ee8c",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x9410bff2f9949d6700"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1209564,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa67e68542f35cf759d9a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1209564,
+      "userAddress": "0x956d4b572EdB5AB27305A89651B391723B51D1bE",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0a72a841f487e1f9e3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1212522,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa610ef2fe1cb94a84668"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1212611,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5d17483b438506e4865"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1212522,
+      "userAddress": "0xA65Fb1B12Ce98D6C94Cce0bfb2D571639664d2c1",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1212611,
+      "userAddress": "0x8916cbe0A294D0aB449303277D97B70a3625319e",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1213876,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5d17483b438506e4865"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1213876,
+      "userAddress": "0x81fb0C63E192C46041c6032DE25006c15481A6ec",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3635c9adc5dea00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1214609,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5c6aad5ae9131b24865"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1214933,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5c6aad5ae9131b24865"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1214980,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5b3b19be4f256fa4865"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1214609,
+      "userAddress": "0x36BfaDE850320D0Ca9E18031ea8d5Dfe0971C12f",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1214933,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xbdbc41e0348b300000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1214980,
+      "userAddress": "0xcE852A7b036a3c116Ee7f2A5560A96B5fD88e4Eb",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x12f939c99edab80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1218851,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5a397e7ee8523f64865"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1218851,
+      "userAddress": "0x9e1C950E743ec4f6AfeC299dcDff1bbC21bb2b3B",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1219362,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa5a397e7ee8523f64865"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1219894,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x977fd8a3ccf21103f5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1219905,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x977fd8a3ccf21103f5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1219927,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8f077120a6074803f5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1219934,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8f077120a6074803f5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1219945,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8f077120a6074803f5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1219362,
+      "userAddress": "0xab4382aAdae5bF4b37B90b9dc07FC72D52e2a28A",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x6c6b935b8bbd400000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1219894,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1fc3842bd1f071c00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1219905,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1fc3842bd1f071c00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1219927,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x174b1ca8ab05a8c00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1219934,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x174b1ca8ab05a8c00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1219945,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x174b1ca8ab05a8c00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1220487,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8ed13b56f8416963f5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1220487,
+      "userAddress": "0xCD2F1b474C2E8569699Eb3c2C11b29F3Ff029891",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1221800,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8ed13b56f8416963f5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1221800,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xbdbc41e0348b300000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1222729,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8ed13b56f8416963f5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1222773,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8ebb7e58c8d835bff5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1222729,
+      "userAddress": "0xd51D49A1a67AB4ED75825D1F8a99b1c794e4A164",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x5150ae84a8cdf00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1222773,
+      "userAddress": "0xd51D49A1a67AB4ED75825D1F8a99b1c794e4A164",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3b93b0553f9a4c0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1226015,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8d7cbcf45a6b74dff5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1226015,
+      "userAddress": "0x4E928b122bF8b38846A54515E950356A224b2405",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x068155a43676e00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1226562,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8e1f5e5163bd10bff5df"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1226562,
+      "userAddress": "0x589690814bEf0335eBd2DEf3fea45efB56287A67",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01b1ae4d6e2ef5000000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1228041,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8e04e217064524583a4b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1228041,
+      "userAddress": "0x9D0AE4cBde9deD6D205445B159659EF03aF7A52a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1229360,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8e1520b91d0c2b26fa4b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1229360,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x03671ce74758b3c00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1234977,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8ba5b629cea8aaf6fa4b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1234977,
+      "userAddress": "0xfC414DAf238a3cBea641F9eeD8959cA6aDAeE3fD",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1235492,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8bd81ac3b761627e719c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1235510,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8bf706d8535178e6fa4b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1235492,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xf020dbc8ed42b77751"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1235510,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x010f0cf064dd59200000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1236292,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8c981aa6c5ea54297a4b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1236292,
+      "userAddress": "0x589690814bEf0335eBd2DEf3fea45efB56287A67",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0252c21be0c7d0428000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1238905,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x8c886217ce66b4e17a4b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1238905,
+      "userAddress": "0x0C9075a7e09AAe69b9E20839cb082aF2DD6101D5",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1240309,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6fda9d098ad78ede6f5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1240309,
+      "userAddress": "0x46919f4016BEfb3c9a01E72a1cfc395695276A01",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1a7547b8ca46c40c6caa"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1241547,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6fda9d098ad78ede6f5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1241929,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6e4899031c3e32e4385"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1241547,
+      "userAddress": "0x9B99d8ba490933a978791EFcEAeFF74517387860",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x363433a8004ce22131"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1241929,
+      "userAddress": "0x0aD9849989CF1d813Fe0E13A2BfEA92DA9a9F138",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1242361,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa7f3968096a13c4e4385"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1242449,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa7f3968096a13c4e4385"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1242456,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa7f1f62b0db31c8cbf34"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1242470,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa77f8fb18c110c1c7f34"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1242361,
+      "userAddress": "0xc64DE5E0f97c21606e1f31426eB5c98AB729C08e",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x011959b7fe3395580000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1242449,
+      "userAddress": "0x7a26ccf076F95AA667eFc853cbD9d9A31E035d3d",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x7406cf0a903031c451"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1242456,
+      "userAddress": "0x7a26ccf076F95AA667eFc853cbD9d9A31E035d3d",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x72667981a210704000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1242470,
+      "userAddress": "0x7a26ccf076F95AA667eFc853cbD9d9A31E035d3d",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1248653,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa7f8423246f9b766c5ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1248653,
+      "userAddress": "0x5BEF09B0A1334d381cD95613F2bE9fdD69A49f76",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xbdbc41e0348b300000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1259853,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa83680279b6614cb85ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1259853,
+      "userAddress": "0x81fb0C63E192C46041c6032DE25006c15481A6ec",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x7473bf02323c04c000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1263738,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa783d2f7525aed4b85ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1263738,
+      "userAddress": "0x7e623eCe722d2DED13694ee3A8C8c0E8E7E1dd23",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1264998,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa783d2f7525aed4b85ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1265003,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa7787e8229af44a785ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1264998,
+      "userAddress": "0xd51D49A1a67AB4ED75825D1F8a99b1c794e4A164",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3b93b0553f9a4c0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1265003,
+      "userAddress": "0xd51D49A1a67AB4ED75825D1F8a99b1c794e4A164",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x303f3b2c93f1a80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1265232,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa7787e8229af44a785ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1265292,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa7658548601069ef85ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1265232,
+      "userAddress": "0x747c1D10cCaF606b56aB58eec8b899eE098f65AF",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x153c83d88eec835e5e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1265292,
+      "userAddress": "0xcE852A7b036a3c116Ee7f2A5560A96B5fD88e4Eb",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1267033,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa76da6f36d547e8785ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1267033,
+      "userAddress": "0xf465D8adF4071A2FBe1804C269F99Da0c12E173C",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0821ab0d4414980000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1269079,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa76da6f36d547e8785ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1269086,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa7054c35986acb9385ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1269118,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6c43edd2e4a26d385ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1269079,
+      "userAddress": "0x9215F394a637A4ED09B7357e8713fb15fB5D5A65",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xa968163f0a57b40000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1269086,
+      "userAddress": "0x9215F394a637A4ED09B7357e8713fb15fB5D5A65",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x410d586a20a4c00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1269118,
+      "userAddress": "0x9215F394a637A4ED09B7357e8713fb15fB5D5A65",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1274786,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa6c14395edb1305785ec"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1274786,
+      "userAddress": "0x5BEF09B0A1334d381cD95613F2bE9fdD69A49f76",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xbac0fa9f9b94b40000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1276114,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9c17f89b5b27cff1e772"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1276114,
+      "userAddress": "0xDe6b2a06407575B98724818445178C1f5fD53361",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x43c33c19375648000000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1276882,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9c2e7447d3c4d173e772"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1276882,
+      "userAddress": "0xda1d9534BeF3344Fa5be3B644b767b349e7415C7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x167bac789d01820000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1277336,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9c26529cc680bcdbe772"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1277959,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9b4de32ef203368449ba"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1277336,
+      "userAddress": "0xf465D8adF4071A2FBe1804C269F99Da0c12E173C",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1277959,
+      "userAddress": "0xEbb2BC8fE139A025eef021f19641A60FcEce3Dc2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1294861,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9b5e26850c8b5fb449ba"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1294861,
+      "userAddress": "0x09f0Abd39751E88437689Fea7adAc4477AC1651b",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1043561a8829300000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1312559,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9b5e2661808ab6dbc194"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1312559,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9b5e0ac328307bb982b2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1312594,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9b4ceac4e7e639d382b2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1312594,
+      "userAddress": "0x86C84A09f87E1Ea6C36919c4083cf67A5E90e5Ff",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1312559,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01e8144ea19cbd8f31b5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1314338,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9c545fcfa98506842a0a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1314456,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9c545fcfa98506842a0a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1314518,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9e7279b0733fb8c42a0a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1314338,
+      "userAddress": "0x042167FA54bb1427b1935755289e7a5C362E2E16",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0107750ac19eccb0a758"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1314456,
+      "userAddress": "0x042167FA54bb1427b1935755289e7a5C362E2E16",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0107750ac19eccb0a758"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1314518,
+      "userAddress": "0x99e6a9bfE6F743a0005EEB205b6DfDc769dee0A1",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x021e19e0c9bab2400000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1321083,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x9d6b04a5b1a0ec1382b2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1321083,
+      "userAddress": "0x042167FA54bb1427b1935755289e7a5C362E2E16",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1328103,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa1a738674516509382b2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1328103,
+      "userAddress": "0xD6d8957449F2A98Cc2A995a9899cc3360bA1764c",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0748d3e68cfd1d800000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1331208,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa1869a47903959abaeca"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1331208,
+      "userAddress": "0xBB458aa7974fA12d4aC2b53be7c453c4cB5207CC",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1331368,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa1769ff0bbd2cf09aeca"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1331368,
+      "userAddress": "0xda1d9534BeF3344Fa5be3B644b767b349e7415C7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x068155a43676e00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1333405,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa289c34c243c740d6aff"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1333429,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa289c34c243c740d6aff"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1333405,
+      "userAddress": "0x589690814bEf0335eBd2DEf3fea45efB56287A67",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0365e577493175463c35"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1333429,
+      "userAddress": "0x589690814bEf0335eBd2DEf3fea45efB56287A67",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0365e577493175463c35"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1334675,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xa1cf025184a0df596aff"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1334972,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5e0bc6384d4a97596aff"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1334977,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5e0b744a4431246e1aa6"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1334977,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5ddc189ee36f25f81708"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1334675,
+      "userAddress": "0x5BEF09B0A1334d381cD95613F2bE9fdD69A49f76",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1334972,
+      "userAddress": "0xDe6b2a06407575B98724818445178C1f5fD53361",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1334977,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01b866b537c14c2dddbe"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1338569,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5ddbe9826d30f2eedda1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1338569,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5dc0fe0008e32e9f1048"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1338852,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5dc0c8d139b774f47ea1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1338852,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5da5e3612e5737460988"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1339061,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5da5e3612e5737460988"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1339061,
+      "userAddress": "0x3C3E1450CD9Ea5cF4a19a963F463951cbED1c4a0",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x8b1aa77b2e0d8a9147"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1338569,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x019d4c165d3554d4d6fe"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1338852,
+      "userAddress": "0x1A66536999b66f6aE13508fC198a06615A11CD77",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x062dfb16765ba88d3940"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1339597,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5da5ce1f2cfa4474f753"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1339597,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5d9b0bee7085a1226d3b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1339677,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5d9acf08ff03136d0d32"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1339677,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5d7f7040a67e201e0434"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1339597,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x019274a39f63beb13ab1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1339677,
+      "userAddress": "0x1A66536999b66f6aE13508fC198a06615A11CD77",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x06125f68ac542788d039"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1340722,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x650232567864fc5b5acf"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1340722,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1ecddebe7cec84fd569b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1344133,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x64cbfc8cca9f1dbb5acf"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1344133,
+      "userAddress": "0x97A97df6Bf0818D71bad7550bc9ae8d995842B03",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1351451,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x6485836cebb67be68a96"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1351451,
+      "userAddress": "0x1A66536999b66f6aE13508fC198a06615A11CD77",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x05cbe648cd6b85b40000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1352639,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x6486536a755cf0f1d402"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1352639,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0367ece4d0ff28cb496c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1358035,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5ae57773d9bb62747d67"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1358047,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5ae57773d9bb62747d67"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1358035,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x152d02c7e14af6800000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1358047,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x152d02c7e14af6800000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1374450,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5ae65dced89bae74aba6"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1374450,
+      "userAddress": "0xce4bc76159B182BF4dF8D464291Cee1dD7A8e823",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0767b0a316c2e02e3f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1381332,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5e2dc49300a786d3a30d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1381332,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x06af53a8f90b012a40d3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1382273,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5df704022fdd1e4ba30d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1382273,
+      "userAddress": "0xeb258Ee4d01Bc2D519FBc43ff1681D0c85e36B42",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1387379,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5f13cb647382d6674873"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1387872,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5f13cb647382d6674873"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1387892,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5fed25edeac7e5108b63"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1387924,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x5fed25edeac7e5108b63"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1387940,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x608ebaf66abbcf25245d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1387956,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x608ebaf66abbcf25245d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1387974,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x61678cdb992c8e4b6bbd"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1387982,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x62405777f446d041c224"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1387991,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x63191ad6c3d18a0d50bf"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1388001,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x63f1d72fc7fbeff9bab7"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1388011,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x64ca8c8b13efbe27d3ed"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1387379,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x011cc76243a5b81ba566"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1387872,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x011cc76243a5b81ba566"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1387892,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01f621ebbaeac6c4e856"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1387924,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01f621ebbaeac6c4e856"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1387940,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0297b6f43adeb0d98150"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1387956,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0297b6f43adeb0d98150"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1387974,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x037088d9694f6fffc8b0"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1387982,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x04495375c469b1f61f17"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1387991,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x052216d493f46bc1adb2"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1388001,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x05fad32d981ed1ae17aa"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1388011,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x06d38888e4129fdc30e0"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1389399,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x679df11b85ed3137c61a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1389447,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x6a57898eb980a29e461a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1389689,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x67b13a3c7a39c1b7d3ed"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1389399,
+      "userAddress": "0x34A7c30af9D01Df92E997967161053E4271CEB8a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x02d3649071fd730ff22d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1389447,
+      "userAddress": "0x34A7c30af9D01Df92E997967161053E4271CEB8a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x058cfd03a590e476722d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1389689,
+      "userAddress": "0x34A7c30af9D01Df92E997967161053E4271CEB8a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x02e6adb1664a03900000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1391471,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x67d6f103623fc0f9d3ed"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1391471,
+      "userAddress": "0x3802B1eB268dF8fe874dfc4B262891910f415684",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x25b6c6e805ff420000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1392411,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x676a857006b403b9d3ed"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1392411,
+      "userAddress": "0x1A66536999b66f6aE13508fC198a06615A11CD77",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x055f7ab571dfc8740000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1393729,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x676bad456c4ab6d85ff9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1393736,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x676bad456c4ab6d85ff9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1393746,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x676d454f4d31eca97c42"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1393761,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x676d454f4d31eca97c42"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1394014,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x67757d3dab7c00f4c7e7"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1394041,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x677cafde3a600871dd7a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1394053,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x677cafde3a600871dd7a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1394068,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x67838602aa4bc67eab6b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1393729,
+      "userAddress": "0xce4bc76159B182BF4dF8D464291Cee1dD7A8e823",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x088f8608ad75feba4b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1393736,
+      "userAddress": "0xce4bc76159B182BF4dF8D464291Cee1dD7A8e823",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x088f8608ad75feba4b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1393746,
+      "userAddress": "0xce4bc76159B182BF4dF8D464291Cee1dD7A8e823",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0a278fe994abcfd694"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1393761,
+      "userAddress": "0xce4bc76159B182BF4dF8D464291Cee1dD7A8e823",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0a278fe994abcfd694"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1394014,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0837ee5e4a144b4ba5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1394041,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0f6a8eed2e1bc86138"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1394053,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0f6a8eed2e1bc86138"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1394068,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1640b35d19d9d52f29"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408114,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x67bafc890681cd41c4bc"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408130,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x67f10f70849e08ff5ff4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408139,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x681c51610e0370c4cbd6"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408153,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x68422b04763fa48a70f3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408180,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x6861299537cb04482f46"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408209,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x687c325652c31b866a1c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408242,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x689188f6a027f8c5275b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408252,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x68a3455238d061b7cc1a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408114,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x070aff0f4048a69f4a31"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408130,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x074111f6be64e25ce569"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408139,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x076c53e747ca4a22514b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408153,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x07922d8ab0067de7f668"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408180,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x07b12c1b7191dda5b4bb"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408209,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x07cc34dc8c89f4e3ef91"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408242,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x07e18b7cd9eed222acd0"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408252,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x07f347d872973b15518f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408326,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x68b252289cb43ef18e5b"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408408,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x68bf3e005339afa172bd"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408425,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x68ccac668ba1ef449e8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408452,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x68d7f5c2133dc8c93770"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408595,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x6f323a1d89006cb8f132"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408617,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x730772bde76677ff854f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408625,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x76434909ae230203b371"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408645,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x78c5ea0a676e1a199af3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408664,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7aa710c98929a47b5837"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408676,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7c222df77381c8a3d06e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1408734,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d41fffe92beee4f04f5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408326,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x080254aed67b184f13d0"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408408,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x080f40868d0088fef832"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408425,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x081caeecc568c8a223ff"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408452,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0827f8484d04a226bce5"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408595,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0e823ca3c2c7461676a7"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408617,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x12577544212d515d0ac4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408625,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x15934b8fe7e9db6138e6"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408645,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1815ec90a134f3772068"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408664,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x19f7134fc2f07dd8ddac"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408676,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1b72307dad48a20155e3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1408734,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1c920284cc85c7ac8a6a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1410275,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d41d7fce9d0240bd3d0"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1410275,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d26a319f1eecee9f01f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1410275,
+      "userAddress": "0x34A7c30af9D01Df92E997967161053E4271CEB8a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x02cb50ccc579e42aeb2a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1410330,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d26762bbdb5d60abf67"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1410330,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d0b475060e63e17b74f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1410330,
+      "userAddress": "0x34A7c30af9D01Df92E997967161053E4271CEB8a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x02aff50334715358b25a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1412709,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d340d6ceb43693ab74f"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1412709,
+      "userAddress": "0x94c74DFA070500E317DddE4d64007FE26ae8aB9A",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x28c61c8a5d2b230000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1414195,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d337bd706df1ba58826"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1414216,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d337bd706df1ba58826"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1414219,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x62c90bacf8f31db91b7c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1414229,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x62caf0044af8060ef6c6"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1414230,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d35602e6c7693f63991"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1414195,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x15af1d78b58c400000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1414216,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x15af1d78b58c400000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1414219,
+      "userAddress": "0x46919f4016BEfb3c9a01E72a1cfc395695276A01",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0ad78ebc5ac6200000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1414229,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x179374caba7495db4a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1414230,
+      "userAddress": "0x46919f4016BEfb3c9a01E72a1cfc395695276A01",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1a7547b8ddd9540742cb"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1414845,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d6a8069d4335ec63991"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1414845,
+      "userAddress": "0x287CDD0A59d69E9F101E90BDBCC892607DF08CF9",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x35203b67bccad00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1417145,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7dce23c9920f2ebe3991"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1417145,
+      "userAddress": "0x4CD92cA35b5aEcE4b8782e79F6CB7fbF16441dA0",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x63a35fbddbcff80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1417768,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7dcb6de60e962144b8be"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1418287,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7dcb4ccb54f1ae994f3e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1418287,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7db54a11840dde88bbb4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1417768,
+      "userAddress": "0x2c90a1a51398A0C69a73968B27cDEDDEC9D0D971",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x06ac9dc57591f3b0c000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1418287,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x017c50cf14db7bf53da7"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1421742,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7dbc10e24d044ce95868"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1421742,
+      "userAddress": "0xb3405453CB4Ca6B74B6704d15942Fb0560Ec9424",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x06c6d0c8f66e609cb4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1424836,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7dbbf0d18d1dfc7f1817"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1424836,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7da65f9d055439a9abb4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1424858,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7da653281099adc1d774"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1424858,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d9e3d230a723271caf1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1424836,
+      "userAddress": "0x34A7c30af9D01Df92E997967161053E4271CEB8a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x029a43bdecc1401905a6"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1424858,
+      "userAddress": "0x9B99d8ba490933a978791EFcEAeFF74517387860",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x2e11b9ad1e45aa406e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1429391,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d702b695d53ecc78a83"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1429418,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7db6a48925a1f4978a83"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1429391,
+      "userAddress": "0x9B99d8ba490933a978791EFcEAeFF74517387860",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1429418,
+      "userAddress": "0x9B99d8ba490933a978791EFcEAeFF74517387860",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x46791fc84e07d00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1434769,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d4a0dba60311b0b8a83"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1434769,
+      "userAddress": "0x1A66536999b66f6aE13508fC198a06615A11CD77",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x04f2e3e6ac6eeee80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1436123,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d49e9b15f03334607d6"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1436123,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d317d6c736a7e2b240e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1436123,
+      "userAddress": "0x34A7c30af9D01Df92E997967161053E4271CEB8a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0281b36ffffaa3389f31"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1437980,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7d311d544f377266bd26"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1437980,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cfb2b5f2a995b7666d4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1438040,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cfb2b5f2a995b7666d4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1438040,
+      "userAddress": "0x94c74DFA070500E317DddE4d64007FE26ae8aB9A",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x28c61c8a5d2b230000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1437980,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0145fec1cc0a5940806d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440085,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cfb2b5f2a995b7666d4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440101,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cfb2b5f2a995b7666d4"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440105,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cf998eaa2115451cb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440121,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cf998eaa2115451cb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440128,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cf83df8ca85fb8dcb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440138,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cf83df8ca85fb8dcb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440143,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cf6583fcff618e1cb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440162,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cf6583fcff618e1cb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440169,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cf3e7bfb261ac4dcb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440179,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cf3e7bfb261ac4dcb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440184,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cf1773f94cd3fb9cb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440192,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cf1773f94cd3fb9cb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440199,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cef06bf7738d325cb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440208,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cef06bf7738d325cb8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440213,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cec289b22c036988b8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440226,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cec289b22c036988b8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440298,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7cea194004155dc08b8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440085,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x179374caba7495db4a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440101,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x179374caba7495db4a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440105,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x16010042326d714000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440121,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x16010042326d714000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440128,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x14a60e6aa714ad4000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440138,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x14a60e6aa714ad4000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440143,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x12c055701732014000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440162,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x12c055701732014000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440169,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x104fd55282c56d4000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440179,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x104fd55282c56d4000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440184,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0ddf5534ee58d94000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440192,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0ddf5534ee58d94000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440199,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0b6ed51759ec454000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440208,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0b6ed51759ec454000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440213,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0890b0c2e14fb80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440226,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0890b0c2e14fb80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440298,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x068155a43676e00000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440334,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7ce397ea5fdee6e08b8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440608,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7bd481b602fc35d00120"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440716,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7bdc9d36494471cc4017"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440736,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7be3983e85097ae6922d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440744,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7be3983e85097ae6922d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440752,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7bea4372a0fac67d16d1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440764,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7bea4372a0fac67d16d1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440794,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7bf0aaaf9d6c681b9bca"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440807,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7bece6b72ac873980120"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440837,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7bebd128e4bf5fc80120"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440857,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7beb4661c1bad5e00120"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1440871,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7beb4661c1bad5e00120"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440334,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440608,
+      "userAddress": "0x88ce14D5932b35fCB7fC0221A75BF05b61901ca7",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1b82ec506fa3169c0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440716,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x081b8046483bfc3ef7"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440736,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0f1688820d4516910d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440744,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0f1688820d4516910d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440752,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x15c1bc9dfe90ad15b1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440764,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x15c1bc9dfe90ad15b1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440794,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x1c28f99a70324b9aaa"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440807,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x18650127cc3dc80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440837,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x174f72e1c329f80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440857,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x16c4abbebea0100000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1440871,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x16c4abbebea0100000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1446436,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7b99f5b33b61c43400b3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1446457,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7b4339403024170600b3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1446469,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7ae39f14b0ba6fd780b3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1446485,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7aac53bcbceb7d6780b3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1446436,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xf4ae1345b147948000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1446457,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x9df1a03a739a668000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1446469,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3e5774bb09f3380000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1446485,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x070c1cc73b00c80000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1448414,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7aac53b80a533a3dcbf9"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1448414,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7aac50385db2db4d8f92"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1448414,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x010f096c05a4b7060edf"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1451451,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7233e8b536c8124d8f92"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1451476,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7233e8b536c8124d8f92"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1451490,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x7015ced46d0d600d8f92"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1451501,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x657f4d707c67e4cd8f92"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1451451,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0cb49b44ba602d800000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1451476,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0cb49b44ba602d800000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1451490,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0a968163f0a57b400000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1451501,
+      "userAddress": "0x3B9548359E9f9C225d5B447111026463A0e17e83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1460366,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x6581b551368250a677c1"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1460380,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x6584cfdf94ca189a342c"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1460366,
+      "userAddress": "0xce4bc76159B182BF4dF8D464291Cee1dD7A8e823",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0c8f70a3af17a8bec3"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1460380,
+      "userAddress": "0xce4bc76159B182BF4dF8D464291Cee1dD7A8e823",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0fa9ff01f6df9c7b2e"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1464011,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x65832d78cb7301895795"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1464011,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x64e22cc0a54b896d80d7"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1464337,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x64b55d18b4535ec8254d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1464337,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3f96a5252dfd340000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1464011,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x6c664d162627d95b8a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1464353,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x648678cf5f4ac5e4254d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1464402,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x6475c6738f256194254d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1464353,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x10b25bd02564500000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1464402,
+      "userAddress": "0xf8BC9098a2aE59fC8d1B03E4212ab942C36DeA8E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1510566,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x64739b57031339f4254d"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1510617,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x65576f7fdd649512b735"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1510644,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x65576f7fdd649512b735"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1510666,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x655203b87f373202b735"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1510992,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x654c528d8f8789feb735"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1511005,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x654c528d8f8789feb735"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1511039,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x654911e2bd6c4e8eb735"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1511061,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x6542d5f0aab81ca2b735"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1510566,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x14998f32ac78700000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1510617,
+      "userAddress": "0xa5889D266d96b5DF7dc6454B20E88C4b06f6B59e",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xe3d428da515b1e91e8"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1510644,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x14998f32ac78700000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1510666,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0f2dc7d47f15600000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1510992,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x097c9ce4cf6d5c0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1511005,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x097c9ce4cf6d5c0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1511039,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x063bf212b431ec0000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1511061,
+      "userAddress": "0x05e4a25495c04a19983bBEA54cF9a2EdbB5bCC50",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1517710,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x6542d5f0aab81ca2b735"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1517710,
+      "userAddress": "0x94c74DFA070500E317DddE4d64007FE26ae8aB9A",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x28c61c8a5d2b230000"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1524247,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x4acd8e37ccdec89b746a"
+      },
+      "collateralName": "DAI"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1524247,
+      "userAddress": "0x46919f4016BEfb3c9a01E72a1cfc395695276A01",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "DAI"
+    }
+  ]
+}

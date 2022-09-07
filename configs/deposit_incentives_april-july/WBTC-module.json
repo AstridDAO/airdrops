@@ -1,0 +1,431 @@
+{
+  "queriedState": [
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1351621,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0ef2be"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1351621,
+      "userAddress": "0x9f3caE8403F0Bc232d6a0d7abDd8BDa3E121fA43",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0ef2be"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1352575,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xb6cb7e"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1352674,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xb6cb7e"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1352575,
+      "userAddress": "0xab4382aAdae5bF4b37B90b9dc07FC72D52e2a28A",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xa7d8c0"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1352674,
+      "userAddress": "0xab4382aAdae5bF4b37B90b9dc07FC72D52e2a28A",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xa7d8c0"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1353199,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0165e28d"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1353327,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x018dad70"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1353199,
+      "userAddress": "0xBB7d7E3341Bf213b0D6745c4D83541f3c386aE83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xaf170f"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1353327,
+      "userAddress": "0xc77c3EfB55bd7b0E44c13EB27eb33c98597f0a68",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x27cae3"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1357880,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x033a7310"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1357880,
+      "userAddress": "0xe0d83DfEf4B39Aa01473cECEAF3d3585FD158884",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x01acc5a0"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1360444,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x03d30990"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1360465,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x041f54d0"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1360444,
+      "userAddress": "0xe0d83DfEf4B39Aa01473cECEAF3d3585FD158884",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x02455c20"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1360465,
+      "userAddress": "0xe0d83DfEf4B39Aa01473cECEAF3d3585FD158884",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0291a760"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1364841,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x093823bf"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1364841,
+      "userAddress": "0x8fE7261B58A691e40F7A21D38D27965E2d3AFd6E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0518ceef"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1389939,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x08890cb0"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1389939,
+      "userAddress": "0xBB7d7E3341Bf213b0D6745c4D83541f3c386aE83",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1394549,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x1179de30"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1394549,
+      "userAddress": "0x40898c6b50d8340a2aD9A9bB00c9346702855ffb",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x08f0d180"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1421597,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x1189335d"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1421597,
+      "userAddress": "0xEbb2BC8fE139A025eef021f19641A60FcEce3Dc2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0f552d"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1434686,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x1203455d"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1434696,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x1203455d"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1434686,
+      "userAddress": "0xEbb2BC8fE139A025eef021f19641A60FcEce3Dc2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x89672d"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1434696,
+      "userAddress": "0xEbb2BC8fE139A025eef021f19641A60FcEce3Dc2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x89672d"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1438597,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x12034551"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1438597,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x12033bdd"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1438597,
+      "userAddress": "0x9f3caE8403F0Bc232d6a0d7abDd8BDa3E121fA43",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0ee93e"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1448213,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x13d58add"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1448213,
+      "userAddress": "0xab4382aAdae5bF4b37B90b9dc07FC72D52e2a28A",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x027a27c0"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1449136,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x134c23b0"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1449136,
+      "userAddress": "0xEbb2BC8fE139A025eef021f19641A60FcEce3Dc2",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x00"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1469790,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x15823be7"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1469790,
+      "userAddress": "0x5e35994DFb6B2494428d1919B15B7fD3a7De0C3a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x02361837"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1500315,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x158f9d37"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1500315,
+      "userAddress": "0x81F209F2DA84100d2dF18e180aacc9b77AFf1a1b",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0d6150"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1514829,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x15ab669f"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1514935,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x15ab669f"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1514829,
+      "userAddress": "0x81F209F2DA84100d2dF18e180aacc9b77AFf1a1b",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x292ab8"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1514935,
+      "userAddress": "0x81F209F2DA84100d2dF18e180aacc9b77AFf1a1b",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x292ab8"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1524094,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x15bef27a"
+      },
+      "collateralName": "WBTC"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1524094,
+      "userAddress": "0x81F209F2DA84100d2dF18e180aacc9b77AFf1a1b",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x3cb693"
+      },
+      "collateralName": "WBTC"
+    }
+  ]
+}

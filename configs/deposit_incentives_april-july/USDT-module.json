@@ -1,0 +1,194 @@
+{
+  "queriedState": [
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1515868,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x09e0af82"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1515868,
+      "userAddress": "0x9f3caE8403F0Bc232d6a0d7abDd8BDa3E121fA43",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x09e0af82"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1518765,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x2da3f582"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1518819,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0xded30a5c"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1518843,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x01874dcdc0"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1518871,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x0231455595"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1518905,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x02c0b518f5"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1518765,
+      "userAddress": "0x1DF6DB610036713fE15AAa1EAdF9DfCbB9F2d7B8",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x23c34600"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1518819,
+      "userAddress": "0x1E5E4b0e49Ab05541a7f2B1f9fa7645BEAc96814",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0xb12f14da"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1518843,
+      "userAddress": "0x1E5E4b0e49Ab05541a7f2B1f9fa7645BEAc96814",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0159a9d83e"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1518871,
+      "userAddress": "0x1E5E4b0e49Ab05541a7f2B1f9fa7645BEAc96814",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0203a16013"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1518905,
+      "userAddress": "0x1E5E4b0e49Ab05541a7f2B1f9fa7645BEAc96814",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0293112373"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1521093,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x02ce1a82a5"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1521688,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x02d8948867"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1521093,
+      "userAddress": "0x70b0e725849e5Fa58324963e197aa294fa2d6A4E",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0d6569b0"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1521688,
+      "userAddress": "0x2081282543Ec37AdD388C9449b621D27A243af28",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x0a7a05c2"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1522077,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x030af084f1"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1522077,
+      "userAddress": "0x735DD9Dd1fEe6454EC033DaC876c50870C44768a",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x325bfc8a"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "ActivePoolCOLBalanceUpdated",
+      "block": 1524258,
+      "collAmount": {
+        "type": "BigNumber",
+        "hex": "0x1a53676cf1"
+      },
+      "collateralName": "USDT"
+    },
+    {
+      "event": "VaultUpdated",
+      "block": 1524258,
+      "userAddress": "0x46919f4016BEfb3c9a01E72a1cfc395695276A01",
+      "collateralBalance": {
+        "type": "BigNumber",
+        "hex": "0x174876e800"
+      },
+      "collateralName": "USDT"
+    }
+  ]
+}
